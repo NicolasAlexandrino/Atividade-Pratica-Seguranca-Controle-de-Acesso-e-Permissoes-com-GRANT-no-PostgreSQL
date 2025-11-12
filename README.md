@@ -1,0 +1,1 @@
+# Atividade-Pratica-Seguranca-Controle-de-Acesso-e-Permissoes-com-GRANT-no-PostgreSQL
