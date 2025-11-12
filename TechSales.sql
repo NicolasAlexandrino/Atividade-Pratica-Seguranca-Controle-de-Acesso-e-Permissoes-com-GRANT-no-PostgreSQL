@@ -30,4 +30,7 @@ GRANT ALL PRIVILEGES ON SCHEMA public TO admin_db;
 --inserindo na tabela vendas
 INSERT INTO vendas (produto, valor, data_venda) VALUES ('Notebook', 3500.00, '2025-11-12');
 
+--revogar permissão
+REVOKE INSERT ON vendas FROM vendedor;
+
 
